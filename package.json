@@ -2,7 +2,7 @@
   "name": "latex-figs-shortcuts",
   "main": "./lib/latex-figs-shortcuts",
   "version": "0.0.3",
-  "description": "A short description of your package",
+  "description": "Key bindings of \"LaTeX/Tables" and \"LaTeX/Importing Graphics\"",
   "keywords": [],
   "activationCommands": {
     "atom-text-editor[data-grammar~=\"latex\"]": [
