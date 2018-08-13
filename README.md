@@ -1,6 +1,7 @@
 # latex-figs-shortcuts
 An Atom package that provides key bindings of "LaTeX/Tables" and "LaTeX/Importing Graphics".
 
+![demo](demo.gif)
 
 ## Tables
 
