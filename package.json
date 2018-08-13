@@ -1,0 +1,21 @@
+{
+  "name": "latex-figs-shortcuts",
+  "main": "./lib/latex-figs-shortcuts",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-text-editor[data-grammar~=\"latex\"]": [
+      "latex-figs-shortcuts:InsertImg",
+      "latex-figs-shortcuts:InsertTable"
+    ]
+  },
+  "repository": "https://github.com/atom/latex-figs-shortcuts",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

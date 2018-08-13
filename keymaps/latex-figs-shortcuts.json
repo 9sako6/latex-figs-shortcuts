@@ -1,0 +1,6 @@
+{
+  "atom-text-editor[data-grammar~=\"latex\"]:not([mini])": {
+    "ctrl-alt-i": "latex-figs-shortcuts:InsertImg",
+    "ctrl-alt-t": "latex-figs-shortcuts:InsertTable"
+  }
+}
