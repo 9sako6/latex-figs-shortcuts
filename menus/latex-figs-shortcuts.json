@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle latex-figs-shortcuts",
+        "command": "latex-figs-shortcuts:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "latex-figs-shortcuts",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "latex-figs-shortcuts:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
