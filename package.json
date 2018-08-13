@@ -1,7 +1,7 @@
 {
   "name": "latex-figs-shortcuts",
   "main": "./lib/latex-figs-shortcuts",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Key bindings of LaTeX/Tables and LaTeX/Importing Graphics",
   "keywords": [],
   "activationCommands": {
