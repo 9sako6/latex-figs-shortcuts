@@ -11,7 +11,7 @@
       "latex-figs-shortcuts:InsertTable"
     ]
   },
-  "repository": "https://github.com/atom/latex-figs-shortcuts",
+  "repository": "https://github.com/9sako6/latex-figs-shortcuts",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
