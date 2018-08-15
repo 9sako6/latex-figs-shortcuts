@@ -3,6 +3,7 @@
 [![Test Coverage](https://api.codeclimate.com/v1/badges/7487a58996b8e22fe4d5/test_coverage)](https://codeclimate.com/github/9sako6/latex-figs-shortcuts/test_coverage)
 
 An Atom package that provides key bindings of "LaTeX/Tables" and "LaTeX/Importing Graphics".
+[work_timer | RubyGems.org](https://rubygems.org/gems/work_timer)
 
 ![demo](demo.gif)
 
