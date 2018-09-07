@@ -1,6 +1,6 @@
 # latex-figs-shortcuts
 
-## **Distribution ended. (2018 August)**
+**Distribution ended (August, 2018). Alternatively use this👉[latex-itemizer](https://github.com/horyu/latex-itemizer)**
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/7487a58996b8e22fe4d5/maintainability)](https://codeclimate.com/github/9sako6/latex-figs-shortcuts/maintainability)
 
